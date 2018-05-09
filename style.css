@@ -9,6 +9,7 @@
 	background-color: blue;
 	padding: 15px;
 	margin: 0px auto;
+	border-radius: 10px;
 
 
 }
@@ -17,6 +18,8 @@
 	width: 970px;
 	background-color: red;
 	margin-bottom: 15px;
+	border-radius: 10px;
+
 	
 
 
@@ -27,6 +30,7 @@
 	background-color: turquoise;
 	display: inline-block;
 	vertical-align: top;
+	border-radius: 10px;
 
 
 }
@@ -39,6 +43,7 @@
 	padding: 15px;
 	padding-right: 35px;
 	padding-bottom: 40px;
+	border-radius: 10px;
 
 	
 	
@@ -48,6 +53,7 @@
 	width: 970px;
 	background-color: grey;
 	margin-top: 15px;
+	border-radius: 10px;
 
 }
 .textbox1{
@@ -59,7 +65,7 @@
 }
 .textbox2{
 	font-size: 19px;
-	padding: 10px;
+	
 	position: relative;
 	left: 40px;
 	top: 20px;
@@ -78,6 +84,9 @@
 	text-align: left;
 	margin-left: 20px;
 
+}
+span {
+	color:blue;
 }
 
 .textboxFooter{
